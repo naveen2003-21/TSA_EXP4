@@ -1,6 +1,6 @@
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
 # Date: 
-## Name: NAVEEN KUMAR
+## Name: NAVEEN KUMAR A
 ## Reg NO:212221240032
 
 ## AIM:
